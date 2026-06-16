@@ -1,7 +1,0 @@
-
-Teste inicial do projeto
-
-Observações:
-- Tentativa de criar pasta em dbfs:/projeto_latam/ falhou
-- Motivo: DBFS root público desabilitado no ambiente Free Edition / Serverless
-- Estratégia adotada: versionar código no GitHub via Repos e usar recursos compatíveis do ambiente
